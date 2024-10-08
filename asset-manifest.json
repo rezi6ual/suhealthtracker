@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/suhealthtracker/static/css/main.9e26d6d6.css",
+    "main.js": "/suhealthtracker/static/js/main.1766884c.js",
+    "static/media/marker.png": "/suhealthtracker/static/media/marker.dfc0fcd600d25fa6dec0.png",
+    "index.html": "/suhealthtracker/index.html",
+    "main.9e26d6d6.css.map": "/suhealthtracker/static/css/main.9e26d6d6.css.map",
+    "main.1766884c.js.map": "/suhealthtracker/static/js/main.1766884c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e26d6d6.css",
+    "static/js/main.1766884c.js"
+  ]
+}
